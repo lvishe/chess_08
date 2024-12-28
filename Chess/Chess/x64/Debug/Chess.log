@@ -1,0 +1,11 @@
+﻿  Chess.cpp
+  Coord.cpp
+  Field.cpp
+  Figure.cpp
+  King.cpp
+  Rook.cpp
+  Rook.h
+  StrightGouingFigure.cpp
+  Generating Code...
+x64\Debug\Rook.obj : warning LNK4042: object specified more than once; extras ignored
+  Chess.vcxproj -> C:\magshimim\second_year\cpp\Chess\Chess\x64\Debug\Chess.exe
